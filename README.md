@@ -17,3 +17,5 @@ git clone https://www.guvi.in/rag/8ec47339-ad62-47ff-8928-c84cb7c508ea
 - Python
 - GUVI Platform
 - AI Language Models (ChatGPT)
+
+![chatrag](https://github.com/user-attachments/assets/36578eb4-3347-4856-ab22-f38da3213ec3)
